@@ -9,8 +9,10 @@
 </br>
 
 <div style="text-align:center">
+<p align="center">
 <img style="user-select: none;" src="https://i.imgur.com/ei77cuZ.gif" title="source: imgur.com"></a>
 </div>
+</p>
 
 </br>
 
