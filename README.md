@@ -15,7 +15,6 @@
 </br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-</br>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
