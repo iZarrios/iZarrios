@@ -10,7 +10,8 @@
 
 <div style="text-align:center">
 <p align="center">
-<img style="user-select: none;" src="https://github.com/iZarrios/iZarrios/blob/main/hollow_knight3.gif" title="source: imgur.com"></a>
+<img style="user-select: none;" src="https://github.com/iZarrios/iZarrios/blob/main/hollow_knight3.gif" alt="Hollow knight GIF"></a>
+
 </div>
 </p>
 
@@ -19,6 +20,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 &nbsp;&nbsp;&nbsp;
 
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
