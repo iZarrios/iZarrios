@@ -3,7 +3,7 @@
 <samp>
     Hello there! I'm <b>Eyad</b>.
     <br>I am a Computer Engineering Undergraduate Student from Egypt.<br>
-    I'm passionate about Competitive Programming, Server side Engineering and Open Source 
+    I'm passionate about CUDA,Programming Languages, golang, Server side stuff and Open Source 
 </samp>
 
 </br>
