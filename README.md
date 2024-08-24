@@ -2,7 +2,7 @@
   <br>
 <samp>
     Hello there! I'm <b>Eyad</b>.
-    <br>I am a Computer Engineering Undergraduate Student from Egypt.<br>
+    <br>I am a Computer Engineering Graduate from Egypt.<br>
     I'm passionate about performance, low-level things, Programming Languages, Go and Open Source 
 </samp>
 
