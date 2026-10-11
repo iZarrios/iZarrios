@@ -2,7 +2,7 @@
   <samp>
     Hello there. I'm <b>Eyad</b>.<br>
     I play with databases, ml inference, cuda, the usual suspects.<br>
-    currently doing a master's at polytechnique montréal / <a href="https://mila.quebec/en/">mila</a> in the <a href="https://github.com/dais-polymtl">dais lab</a>
+    currently doing a master's at polytechnique montréal / <a href="https://mila.quebec/en/">mila</a> in the <a href="https://github.com/dais-labo">dais lab</a>
   </samp>
 </p>
 
